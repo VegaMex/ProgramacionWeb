@@ -1,0 +1,12 @@
+.contenedor {
+    background-color: #70b6d6;
+    color: #fefefe;
+    border: 1px dashed yellow;
+    margin-bottom: 10px;
+}
+div[class^="col"] {
+    background-color: rgb(240, 179, 150);
+    color: #0e0e0e;
+    border: 1px solid #fff;
+    text-align: center;
+}
