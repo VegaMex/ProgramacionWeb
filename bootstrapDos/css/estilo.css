@@ -1,0 +1,10 @@
+.container {
+    background-color: lightgray;
+    border: 1px solid #fff;
+}
+div[class^="col"] {
+    background-color: lightblue;
+    border: 1px solid #fff;
+    color: #ff0000;
+    text-align: center;
+}
