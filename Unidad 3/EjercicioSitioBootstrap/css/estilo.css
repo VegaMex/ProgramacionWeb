@@ -1,3 +1,14 @@
-.justificar {
-    text-align: justify;
+/* estilo.css */
+
+.jumbotron {
+    background-image: url(../img/bgjumbotron.jpg);
+    background-size: cover;
+}
+.jumbotron h1, .jumbotron p {
+    color: #fefefe;
+}
+
+.jumbotron p {
+    font-size: 20px;
+    font-weight: 200;
 }
